@@ -1,0 +1,17 @@
+body{
+    background-image:url("image.jpg");
+    text-align: center;
+    background-position: cover;
+    
+}
+#heading{
+    color:red;
+    font-weight: bold;
+    font-size: 24px;
+    padding: 50%;
+    text-align: center;
+}
+canvas {
+    background:white;
+    border :ridge;
+}
